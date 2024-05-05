@@ -2,3 +2,5 @@
 
 # AWS Lambda -> Serverless service
 
+aws configure
+
