@@ -1,0 +1,9 @@
+build
+data
+dist
+env
+QASystem.egg-info
+testing_bedrock
+LICENSE
+README.md
+test.json
